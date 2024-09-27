@@ -6,4 +6,4 @@ g++ -o Publisher Publisher.cpp
 g++ -o Subscriber Subscriber.cpp
 
 github链接：
-git remote add origin https://github.com/whos2/Intelligent-Car-Management-v3.git
+https://github.com/whos2/Intelligent-Car-Management-v3.git
